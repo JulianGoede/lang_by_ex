@@ -1,1 +1,5 @@
 commit_msg.txt
+
+tex/*
+!tex/*.tex
+!tex/README.md
